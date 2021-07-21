@@ -1,0 +1,12 @@
+Ranked list of sensors
+----------------------
+sensor8
+sensor6
+sensor1
+sensor4
+sensor7
+sensor2
+sensor0
+sensor3
+sensor5
+sensor9
